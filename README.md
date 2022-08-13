@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @BrianRangel
-- 👀 I’m interested in programming 
+- 💻 programming student:
+     TYPESCRIT, REACT.JS, NODE.JS, SQL, MONGODB.
+- 👨🏻‍💻 Future FullStack
 
 <!---
 xumbreks/xumbreks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
