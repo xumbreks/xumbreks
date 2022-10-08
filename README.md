@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrianRangel
 - 💻 programming student:
-     TYPESCRIT, REACT.JS, NODE.JS, SQL, MONGODB.
+     TYPESCRIT, REACT.JS, NODE.JS.
 - 👨🏻‍💻 Future FullStack
 
 <!---
