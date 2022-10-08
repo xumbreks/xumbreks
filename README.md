@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BrianRangel
-- 💻 programming student:
-     TYPESCRIT, REACT.JS, NODE.JS.
-- 👨🏻‍💻 Future FullStack
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xumbreks)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 xumbreks/xumbreks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
