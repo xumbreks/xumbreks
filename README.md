@@ -1,7 +1,7 @@
 <h2>👋 Hi, I’m @BrianRangel</h2>
-  <p>👨🏻‍💻 - Estudante de Análise e Desenvolvimento de Sistemas.</p>
-  <p>😍 - Apaixonado por tecnologia.</p>
-  <p>🌍 - Para mudar o mundo para melhor, começe mudando a si mesmo.</p>
+  <p>👨🏻‍💻 - WEB Developer.</p>
+  <p>😍 - Passionate about technology.</p>
+  <p>🌍 - To change the world for the better, start by changing yourself.</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xumbreks&show_icons=true&theme=dark)
   
