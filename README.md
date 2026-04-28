@@ -1,7 +1,26 @@
-<h2>👋 Hi, I’m @BrianRangel</h2>
-  <p>👨🏻‍💻 - WEB Developer.</p>
-  <p>😍 - Passionate about technology.</p>
-  <p>🌍 - To change the world for the better, start by changing yourself.</p>
+# Brian Rangel 👋
+
+Desenvolvedor Fullstack focado em React, Node.js e aplicações reais.
+
+🚀 Projetos em produção:
+- https://bridclub.com/
+- https://videiraportimao.pt/
+
+🛠️ Tecnologias:
+React • TypeScript • Node • PostgreSQL • Tailwind
+
+📍 Portimão, Portugal  
+📩 brian.rangel@hotmail.com  
+
+---
+
+## Projetos em Destaque
+
+### BridClub
+Sistema de gestão para barbearias com agendamentos, clientes e dashboard.
+
+### Videira Portimão
+Plataforma institucional para igreja com foco em experiência do usuário.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xumbreks&show_icons=true&theme=dark)
   
