@@ -10,7 +10,7 @@ Desenvolvedor Fullstack focado em React, Node.js e aplicações reais.
 React • TypeScript • Node • PostgreSQL • Tailwind
 
 📍 Portimão, Portugal  
-📩 brian.rangel@hotmail.com  
+📩 brianrangel.dev@gmail.com  
 
 ---
 
